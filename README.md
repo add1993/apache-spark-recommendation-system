@@ -1,5 +1,5 @@
 # apache-spark-recommendation-system
-Using Collaborative filtering to find the accuracy of ALS model. 
+Using Collaborative filtering to find the accuracy of Alternating Least Square(ALS) model. 
 60% data used for training and 40% data used for testing.
 
 
