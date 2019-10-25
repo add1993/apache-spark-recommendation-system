@@ -5,3 +5,5 @@ Using Collaborative filtering to find the accuracy of Alternating Least Square(A
 
 Dataset used : ratings.dat
 Dataset header : User id :: movie id :: ratings :: timestamp
+
+Mean Squared Error for rank [4, 8, 12] = 0.19
